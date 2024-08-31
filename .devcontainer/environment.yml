@@ -1,0 +1,7 @@
+name: dfischer4623
+channels:
+ - defaults
+dependencies:
+- python=3
+- openai
+- python-dotenv
